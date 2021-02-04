@@ -472,6 +472,7 @@ footer{
    
     .container{
         width: 93%;
+        overflow: hidden;
     }
 }
 @media screen and (max-width:900px){
